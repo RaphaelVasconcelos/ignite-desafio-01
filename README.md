@@ -11,4 +11,3 @@ Criar uma aplicação para treinar o que tem como principal objetivo ser u
 # Objetivos técnicos
 
  - Manipulação do estado no React
- - Especificação de testes
